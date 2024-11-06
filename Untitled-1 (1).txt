@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>متجر الملحقات الإلكترونية</title>
+                <style>
+                        <!--هنا الاأوان --!>
+                            
+                                    body {
+                                                    font-family: Arial, sans-
+                                                                serif;
+                                                                            margin: 0;
+                                                                                        padding: 0;
+                                                                                                 background-color: #f4f4f4;
+                                                                                                         
+                                    }
+                                            header {
+                                                            background: #9E623F;
+                                                                        color: white;
+                                                                                    padding: 10px 20px;
+                                                                                                text-align: center;
+                                            }
+                                                    .container {
+                                                                    width: 80%;
+                                                                                margin: auto;
+                                                                                            overflow: hidden;
+                                                    }
+                                                            .product {
+                                                                            background: white;
+                                                                                        border: 1px solid #ccc;
+                                                                                                    margin: 20px 0;
+                                                                                                                padding: 10px;
+                                                                                                                            text-align: center;
+                                                            }
+                                                                    footer {
+                                                                                    text-align: center;
+                                                                                                padding: 20px;
+                                                                                                            background: #9E623F;
+                                                                                                                        color: white;
+                                                                                                                                    position: relative;
+                                                                                                                                                bottom: 0;
+                                                                                                                                                            width: 100%;
+                                                                    }
+                                                                        </style>
+                                                                        </head>
+                                                                        <body>
+
+                                                                        <header>
+                                                                            <h1>متجر الملحقات الإلكترونية</h1>
+                                                                                <p>أفضل الملحقات لاحتياجاتك التقنية</p>
+                                                                                </header>
+
+                                                                                <div class="container">
+                                                                                    <h2>المنتجات المتاحة</h2>
+                                                                                        <h3>المشروبات البارده<h3>
+                                                                                            <div class="product">
+                                                                                                    <h3>ملحق 1</h3>
+                                                                                                            <p>وصف مختصر للملحق 1.</p>
+                                                                                                                    <p>السعر: 100 ريال</p>
+                                                                                                                         
+                                                                                                                             </div>
+                                                                                                                                     <h3>المشروبات الحاره</h3>
+
+                                                                                                                                         <div class="product">
+                                                                                                                                                 <h3>ملحق 2</h3>
+                                                                                                                                                         <p>وصف مختصر للملحق 2.</p>
+                                                                                                                                                                 <p>السعر: 150 ريال</p>
+                                                                                                                                                                         
+                                                                                                                                                                             </div>
+                                                                                                                                                                                 <h1>الحلويات</h1>
+                                                                                                                                                                                         <div class="product">
+                                                                                                                                                                                                     <h3>ملحق 2</h3>
+                                                                                                                                                                                                                 <p>وصف مختصر للملحق 2.</p>
+                                                                                                                                                                                                                             <p>السعر: 150 ريال</p>
+                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                             </div>
+
+                                                                                                                                                                                                                                                 <!-- أضف المزيد من المنتجات حسب الحاجة -->
+                                                                                                                                                                                                                                                         <div class="product">
+                                                                                                                                                                                                                                                                     <h3>ملحق 2</h3>
+                                                                                                                                                                                                                                                                                 <p>وصف مختصر للملحق 2.</p>
+                                                                                                                                                                                                                                                                                             <p>السعر: 150 ريال</p>
+                                                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                         </div>
+
+                                                                                                                                                                                                                                                                                                         <footer>
+                                                                                                                                                                                                                                                                                                             <p>&copy; 2024 متجر الملحقات الإلكترونية. جميع الحقوق محفوظة.</p>
+                                                                                                                                                                                                                                                                                                             </footer>
+
+                                                                                                                                                                                                                                                                                                             </body>
+                                                                                                                                                                                                                                                                                                             </html>
+                                                                    }
+                                                            }
+                                                    }
+                                            }
+                                    }
